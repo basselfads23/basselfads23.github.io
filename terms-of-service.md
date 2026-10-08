@@ -1,12 +1,12 @@
 ---
-title: youtube3 Terms of Service
+title: video-poster-automatic Terms of Service
 ---
 
-# youtube3 Terms of Service
+# video-poster-automatic Terms of Service
 
 Effective date: October 8, 2026
 
-youtube3 ("the app") is a private tool that produces and publishes videos on its operator's own YouTube
+video-poster-automatic ("the app") is a private tool that produces and publishes videos on its operator's own YouTube
 channels. It is not offered as a service to the public.
 
 1. **Use.** Only the operator may use the app, and only with Google and YouTube accounts the operator owns or

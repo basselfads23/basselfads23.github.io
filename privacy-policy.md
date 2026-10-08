@@ -1,12 +1,12 @@
 ---
-title: youtube3 Privacy Policy
+title: video-poster-automatic Privacy Policy
 ---
 
-# youtube3 Privacy Policy
+# video-poster-automatic Privacy Policy
 
 Effective date: October 8, 2026
 
-youtube3 ("the app") is a private tool operated by a single individual (the "operator") to produce and
+video-poster-automatic ("the app") is a private tool operated by a single individual (the "operator") to produce and
 publish videos on the operator's own YouTube channels. This policy explains what Google user data the app
 accesses and how it is handled.
 
